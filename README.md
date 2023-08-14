@@ -15,3 +15,5 @@
 ---
 
 ![Banner](https://i.ibb.co/vJPXHXd/Emerald-Banner-Outro-No-Bg.png)
+
+NOTE: This is a demo repository, the repository with the full code is private.
